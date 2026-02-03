@@ -12,7 +12,7 @@ const MenuHeader = () => {
             Open Now
           </div>
           <h1 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-4 leading-tight">
-            One<span className="text-primary">Bite</span>
+            Scan<span className="text-primary">Eats</span>
           </h1>
           <p className="text-muted-foreground text-lg md:text-xl mb-6">
             Authentic flavors, fresh ingredients, unforgettable taste
